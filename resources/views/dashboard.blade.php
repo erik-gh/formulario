@@ -4,5 +4,4 @@
             {{ __('Dashboard') }}
         </h2>
     </x-slot>
-    <livewire:select-proceso-odpe/>
 </x-app-layout>
